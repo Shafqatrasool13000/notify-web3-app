@@ -1,6 +1,6 @@
 # Notify Library Links
 
-npm i bnc-notify
+https://www.npmjs.com/package/bnc-notify
 
 #Notify Docs
 
